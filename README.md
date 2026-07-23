@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://camo.githubusercontent.com/c72170d06cb70f6d96f7f9954f7ccf82a0bff1408b0c5381f2e715b57ff95c52/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36392f62612f64332f36396261643335336532653732383535373537313439646530656431363430662e676966"  />
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/1b/5a/8c/1b5a8c62ce51738c59bfb982a0cd8e33.gif"  />
 </div>
 
 ###
